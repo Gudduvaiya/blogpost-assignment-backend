@@ -24,7 +24,7 @@ A simple Node.js backend for a blog post application using Express, MongoDB, and
    git clone blogpost-assignment-backend
    cd blogpost-assignment-backend
 
- ```2. Install dependencies:
+2. Install dependencies:
 
    ```sh
    npm install
